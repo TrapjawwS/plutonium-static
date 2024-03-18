@@ -1,3 +1,3 @@
-# plutonium-static
-static files for https://github.com/piplup7575/plutonium
-enjoy :)
+# pluto-static
+static repo of plutonium
+idk i'm lazy
